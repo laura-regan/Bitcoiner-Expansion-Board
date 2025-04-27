@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\Projects\Bitcoiner-Expansion-Board\Bitcoiner-Expansion-Board\Bitcoiner_EB_Project_V1I1_PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=bitcoiner_eb_project_v1i1_pcb-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=bitcoiner_eb_project_v1i1_pcb-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl

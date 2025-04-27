@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Bitcoiner_EB_Project_V1I1_PCB.PcbDoc   27/04/2025  13:39:10
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : T to B
+ASCII RoundHoles File : Bitcoiner_EB_Project_V1I1_PCB-RoundHoles.TXT
+ASCII SlotHoles File : Bitcoiner_EB_Project_V1I1_PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             177       PTH        33.27inch (845.08mm)
+T2      26mil (0.65mm)                                            Round             10        PTH        1.10inch (27.94mm)
+T3      30mil (0.749mm)                                           Round             60        PTH        6.11inch (155.07mm)
+T4      32mil (0.8mm)                                             Round             12        PTH        1.22inch (31.00mm)
+T5      35mil (0.899mm)                                           Slot              4         PTH        2.30inch (58.46mm)
+T6      41mil (1.039mm)                                           Round             24        PTH        3.00inch (76.20mm)
+T7      43mil (1.1mm)                                             Round             14        PTH        2.14inch (54.27mm)
+T8      59mil (1.501mm)                                           Round             8         PTH        1.50inch (38.20mm)
+T9      102mil (2.601mm)                                          Round             1         PTH        0.00inch (0.00mm)
+T10     106mil (2.7mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T11     122mil (3.099mm)                                          Round             1         PTH        0.00inch (0.00mm)
+T12     126mil (3.2mm)                                            Round             4         NPTH       11.42inch (290.17mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              316
+
+Total Processing Time (hh:mm:ss) : 00:00:00
